@@ -1,4 +1,5 @@
 # CryptoPlaza: Crypto Twitter login with ENS
+<img width="100" alt="dao" src="https://user-images.githubusercontent.com/28680496/202346108-7707a4d0-1a3c-43cc-ae28-38b8687cde89.png">
 
 ## Purpose
 The water3 team is building a crypto twitter based on ENS - name CryptoPlaza. This will bring two advantages to ENS:
