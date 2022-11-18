@@ -33,5 +33,37 @@ The project will go live on December 15th.
 Water3 is a project team of volunteer developers, and our members are ENS users. We are committed to developing Web3 applications that meet the needs.
 Freedom means we are free to choose. And we will develop decentralized applications to give users more options.
 
-
 Thanks for reading! Looking forward to any questions or comments.
+
+## FAQs
+
+### 1. Open source
+We are open-sourced with BSD 2-clause license.
+Github: https://github.com/water3dao/
+
+### 2. Business model
+
+Donations by users. The business model will be similar to Wikipedia.
+
+Advertisement is the business models on web2, and it’s not suitable for our platform (web3). In other words, if I do not follow Tesla’s account, the promoted Tesla ad will not be shown on my timeline. There will be no advertisers here. Selling users’ attention to advertisers is not our business model.
+
+### 3. Account Bans and Moderation Policy
+
+(a) account ownership (account bans): There will be no account bans on CryptoPlaza. In Version 2.0 (blockchain backed), any ENS name owner can send message on chain directly, even without our web UI. On the backend, we follow the same rules as Ethereum and ENS accounts. If the ENS account can still send message on Ethereum, the message will on be saved on blockchain and database.
+
+(b) moderation policy(censorship): Instead of moderation by a centralized company or team, we propose a customized UI and users decide who to follow and what they want. The Web UI of CryptoPlaza will be open sourced. The client UI (apps or webs) could have its own moderation policy.
+
+It’s meaningful to take more effective measures on the front end (UIs). But the ban rules should not be made by the Water3 team. We will implement the separation of powers:
+- DAO: Criteria and methods for determining ban or moderation policy
+- Developers: Enforce the decision by DAO; implementation by code auditing
+- Everyone: Monitor and report cheating that does not follow the policy
+
+### 4.Go to market
+
+For the first 10K users, we will target three audiences for early adopters:
+
+- [ENS accounts](https://opensea.io/collection/ens) is about 600k accounts(unique address) with 2.7M names. Most of the users are familiar with twitter, and ens. We assume we reach out to 10% of those users, and 10% of them are willing to try on our platforms, this will get to another 6K users. (v1.0)
+
+- [Twitter suspended account](https://www.firstpost.com/tech/news-analysis/twitter-suspended-over-one-million-accounts-daily-to-curb-misinformation-report-4685661.html) is more than 70 million in two months. We will target those suspended who are banned by mistakes. Assuming 1% of those are real accounts and still active, and 1% will be converted to our platforms. This will get to around 7K early adopters. (next step)
+
+- Based on the social network, 15% of whom will invite their friends and family to join the social network, so we will have 7K * 15% = 1 K new users to the ENS domains. (next step)
