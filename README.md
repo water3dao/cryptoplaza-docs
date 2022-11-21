@@ -1,12 +1,17 @@
-# CryptoPlaza: Crypto Twitter login with ENS
+# ThePlaza: Twitter on ENS
 <img width="100" alt="dao" src="https://user-images.githubusercontent.com/28680496/202346108-7707a4d0-1a3c-43cc-ae28-38b8687cde89.png">
 
 ## Purpose
-The water3 team is building a crypto twitter based on ENS - name CryptoPlaza. This will bring two advantages to ENS:
+The water3 team is building a crypto twitter based on ENS - name [ThePlaza](https://cryptoplaza.app/). This will bring two advantages to ENS:
 
 Account ownership: The user logs in with ENS. The account belongs to the user, and no one can tamper or ban it. Recently, many ENS related Twitter accounts were suspended, e.g. [Furyan.eth](https://twitter.com/FuryanEth/status/1589752021095452673). Therefore, account Ownership is Crucial.
 ENS verified on-chain: This will eliminate fake accounts and reduce spam. A lot of ENS users are calling for Musk to verify ENS on Twitter. CryptoPlaza will allow real ENS holders to have a social platform.
 ENS is not just a domain name, it will be verified in more DAPPs.
+
+Multiple "vitalik.eth" on Twitter. The social media scam can be fixed with ENS.
+
+<img width="595" alt="Screen Shot 2022-11-22 at 5 54 51 AM" src="https://user-images.githubusercontent.com/28680496/203178244-2f4a9b5e-0c3b-4232-9afb-965396f2ada6.png">
+
 
 ## Scope of work
 The crypto twitter includes the following core functions:
