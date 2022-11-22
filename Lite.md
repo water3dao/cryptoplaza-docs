@@ -5,8 +5,8 @@
 Social media is a gold mine for [scammers](https://www.coindesk.com/markets/2018/05/30/6-outrageous-moments-in-crypto-twitter-scam-history/). Since 2021, more than 46,000 people have reported losing over [$1 billion](https://www.outlookindia.com/business/crypto-scam-victims-lost-in-excess-of-1-billion-since-2021-us-federal-trade-commission-news-200354) in crypto to scams and crypto makes it attractive to scammers.
 
 There are many Twitter accounts claiming the "vitalik.eth" on Twitter, but [Twitter Blue](https://www.wired.com/story/twitter-blue-check-verification-buy-scams/) still cannot fix it. Behind the scene of "[Not giving away ETH](https://twitter.com/vitalikbuterin/status/970245720560123904)", there are victims of the social media scam.
-<br />
-<img width="350" alt="Twitter Scam" src="https://user-images.githubusercontent.com/28680496/203178244-2f4a9b5e-0c3b-4232-9afb-965396f2ada6.png">
+
+![TwitterScam](https://user-images.githubusercontent.com/28680496/203198756-516edbf2-ded5-4a90-8dc6-8d5770a2e7f2.png)
 
 ## What we do?
 
@@ -28,7 +28,7 @@ ThePlaza, Twitter on ENS, has two advantages:
 
 
 ### Product Preview
-<img width="500" alt="ThePlaza" src="https://user-images.githubusercontent.com/28680496/202344461-47a0d487-4079-453e-aa10-c6ece767e8b1.png">
+![ThePlaza](https://user-images.githubusercontent.com/28680496/202344461-47a0d487-4079-453e-aa10-c6ece767e8b1.png)
 
 
 ### Scope of work
